@@ -1,0 +1,26 @@
+# Summary
+
+| Date   | Notes
+| :----- | :-------------------------------
+| 6/28/2023 | found the agent, action, environment, observation, and reward
+
+# Activities
+
+Agent: The car
+Action: attempts to react and drive as quickly as possible on a randomly-generated track
+environment: the track that the car attempts to drive as quickly as possible
+osbervation space: the image of the track and car
+reward: "The reward is -0.1 every frame and +1000/N for every track tile visited, where N is the total number of tiles visited in the track"
+
+# Issues
+
+originally the code wasn't seeming to work correctly as jax was not updated. However, this was fixed by reimporting and updating jax.
+
+# Plans
+
+[Plans for next week (and beyond, as appropriate).]
+
+# Article Summaries
+
+https://gymnasium.farama.org/environments/box2d/car_racing/
+Documentation for the car racing environment
