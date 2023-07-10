@@ -21,4 +21,4 @@ Finish Hugging Face course, Finish REINFORCE algorithm
 
 # Article Summaries
 
-https://huggingface.co/learn/deep-rl-course/unit0/introduction?fw=pt
+https://huggingface.co/learn/deep-rl-course/unit0/introduction?fw=pt  - huggingface tutorial
