@@ -17,7 +17,7 @@ No Major issues- were resolved already
 
 # Plans
 
-Finish Hugging Face course, Finish CNN
+Finish Hugging Face course, Finish REINFORCE algorithm
 
 # Article Summaries
 
