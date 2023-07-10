@@ -8,7 +8,7 @@
 
 # Activities
 
-Got the environment fully working
+Got the environment fully working \
 more work on the CNN
 
 # Issues
