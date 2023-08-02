@@ -1,0 +1,24 @@
+# Summary
+
+| Date   | Notes
+| 8/1    | Finished REINFORCE, started A2C
+| 8/2    | Continued A2C implementation work
+| [Date] | [Quick notes for the day's work]
+| [Date] | [Quick notes for the day's work]
+| [Date] | [Quick notes for the day's work]
+
+# Activities
+
+REINFORCE completed. Decent amount of work done on A2C.
+
+# Issues
+
+Google Colab is possibly not going to let 3 parallel envs run.
+
+# Plans
+
+Complete A2C
+
+# Article Summaries
+
+[(Optional) Summarize any research articles you read in the past week.]
